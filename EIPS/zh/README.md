@@ -8,7 +8,7 @@
 
 ## EIP status terms
 
-- **想法** - 这个想法还在起草阶段. 这还未被 EIP 仓库追踪。
+- **想法** - 预先起草的想法。在 EIP 仓库中不会跟踪这一点。
 - **Draft** - The first formally tracked stage of an EIP in development. An EIP is merged by an EIP Editor into the EIP repository when properly formatted.
 - **Review** - An EIP Author marks an EIP as ready for and requesting Peer Review.
 - **Last Call** - This is the final review window for an EIP before moving to FINAL. An EIP editor will assign Last Call status and set a review end date (review-period-end), typically 14 days later. If this period results in necessary normative changes it will revert the EIP to Review.
