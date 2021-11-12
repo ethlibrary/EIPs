@@ -1,6 +1,6 @@
 # EIPs 
 
-Ethereum Improvement Proposals (EIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
+以太坊改进提案 (EIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
 
 ## Contributing
 
