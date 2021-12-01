@@ -31,8 +31,6 @@ created: 2015-11-15
 - `out_offset`: 输出到内存的偏移量;
 - `out_size`: 输出的草稿板的大小。
 
-
-
 #### `gas` 注意事项
 - 没有发放基本津贴; `gas` 是被调用者收到的总金额。
 - 像 `CALLCODE` ，帐户创建从来没有发生，所以前期的 `gas` 成本总是 `schedule.callGas` + `gas` 。
