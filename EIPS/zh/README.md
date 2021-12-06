@@ -18,7 +18,7 @@
 <!-- - **Last Call** - This is the final review window for an EIP before moving to FINAL. An EIP -->
 <!--  editor will assign Last Call status and set a review end date (`last-call-deadline`), typically 14 days later. If this period results in necessary normative changes it will revert the EIP to Review. -->
 - **完结** - 本 EIP 代表最终标准。最终的 EIP 是以确定状态存在的，只应在纠正勘误和增加非规范性订正时进行更新。
-- **Final** - This EIP represents the final standard. A Final EIP exists in a state of finality and should only be updated to correct errata and add non-normative clarifications.
+<!-- - **Final** - This EIP represents the final standard. A Final EIP exists in a state of finality and should only be updated to correct errata and add non-normative clarifications. -->
 - **停滞** - 任何处于草案或审议中的 EIP，如果在 6 个月或更长时间内没有进展，将被移至停滞状态。作者或 EIP 编辑可以通过将其移回草案，使 EIP 从这种状态中复活。
 <!-- - **Stagnant** - Any EIP in Draft or Review if inactive for a period of 6 months or greater is moved to Stagnant. An EIP may be resurrected from this state by Authors or EIP Editors through moving it back to Draft. -->
 - **已撤销** - EIP 作者已经撤回了拟议的 EIP。此状态具有终结性，不能再使用这个 EIP 号复活。如果继续这个提案内容，它将被视为一个新的提案。
