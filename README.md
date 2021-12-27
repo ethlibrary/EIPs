@@ -1,4 +1,4 @@
-# 1. 以太坊改进提案（中文翻译） (EIPs)
+# 以太坊改进提案（中文翻译） (EIPs)
 
 以太坊改进提案（Ethereum Improvement Proposals (EIPs)）描述了以太坊的标准化改进，包括核心协议、规范、客户端 API 接口和合约标准。更多关于 EIPS 的概念，请参见 [以太坊中文官网描述](https://ethereum.org/zh/eips/)。
 
@@ -6,13 +6,13 @@
 
 查看所有 EIPs 中文翻译：<https://eips.ethlibrary.io/zh>
 
-# 2. 推荐翻译
+# 推荐翻译
 
 以太坊升级当前已经转变到以 EIP 为中心，我们推荐你优先翻译以下硬分叉相关的 EIP。
 
 ### Ethereum Protocol Releases
 
-| Version and Code Name | Block No. | Released | Incl EIPs | Specs | Blog |
+| 硬分叉升级 | 区块高度 | 硬分叉时间 | 包含的 EIPs | Specs | 博客 |
 |-----------------------|-----------|----------|-----------|-------|-------|
 | Arrow Glacier | 13773000 | 2021-12-09 | [EIP-4345](https://eips.ethereum.org/EIPS/eip-4345) | [Specification](./network-upgrades/mainnet-upgrades/arrow-glacier.md) | [Blog](https://blog.ethereum.org/2021/11/10/arrow-glacier-announcement/) |
 | London | 12965000 |  2021-08-05 | [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559) <br> [EIP-3198](https://eips.ethereum.org/EIPS/eip-3198) <br/> [EIP-3529](https://eips.ethereum.org/EIPS/eip-3529) <br/> [EIP-3541](https://eips.ethereum.org/EIPS/eip-3541) <br> [EIP-3554](https://eips.ethereum.org/EIPS/eip-3554)| [Specification](https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/london.md) | [Blog](https://blog.ethereum.org/2021/07/15/london-mainnet-announcement/) |
@@ -31,14 +31,14 @@
 | Frontier | 1 | 2015-07-30 | | | [Blog](https://blog.ethereum.org/2015/07/22/frontier-is-coming-what-to-expect-and-how-to-prepare/) |
 
 
-# 3. 翻译资源
+# 翻译资源
 
 请查看：
 - [区块链术语的翻译对照 - by EthFans](https://github.com/editor-Ajian/List-of-translation-of-crypto-terms-by-EthFans/blob/under-finalized/Blockchain%20and%20Ethereum%20Terminology.md)
 - [EIPs 中文新手翻译指南](https://github.com/ethlibrary/EIPs/wiki/EIPs-%E4%B8%AD%E6%96%87%E6%96%B0%E6%89%8B%E7%BF%BB%E8%AF%91%E6%8C%87%E5%8D%97)。
 
 
-## 4. 本地运行
+## 本地运行
 
 如果你只参与翻译，可以忽略以下内容。
 
