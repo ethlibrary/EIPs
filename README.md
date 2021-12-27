@@ -6,9 +6,9 @@
 
 查看所有 EIPs 中文翻译：<https://eips.ethlibrary.io/zh>
 
-# 推荐翻译
+## 推荐翻译
 
-以太坊升级当前已经转变到以 EIP 为中心，我们推荐你优先翻译以下硬分叉相关的 EIP。
+以太坊升级当前已经转变到以 EIP 为中心，我们建议优先翻译以下硬分叉相关的 EIP。
 
 ### Ethereum Protocol Releases
 
@@ -31,7 +31,7 @@
 | Frontier | 1 | 2015-07-30 | | | [Blog](https://blog.ethereum.org/2015/07/22/frontier-is-coming-what-to-expect-and-how-to-prepare/) |
 
 
-# 翻译资源
+## 翻译资源
 
 请查看：
 - [区块链术语的翻译对照 - by EthFans](https://github.com/editor-Ajian/List-of-translation-of-crypto-terms-by-EthFans/blob/under-finalized/Blockchain%20and%20Ethereum%20Terminology.md)
