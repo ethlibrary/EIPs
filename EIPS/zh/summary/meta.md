@@ -3,7 +3,7 @@
 ---
 | Eip                     | Title                                    | Created    | Status   | Category | Type  |
 | ----------------------- | ---------------------------------------- | ---------- | -------- | -------- | ----- |
-| [1](/zh/eip-1.md)       | EIP 用途和指南                                | 2015-10-27 | Living   |          | Meta  |
+| [1](/zh/eip-1.md)       | EIP 的用途与指南                               | 2015-10-27 | Living   |          | Meta  |
 | [4](/zh/eip-4.md)       | EIP 分类                                   | 2015-11-17 | Final    |          | Meta  |
 | [233](/zh/eip-233.md)   | Formal process of hard forks             | 2017-03-23 | Stagnant |          | Meta  |
 | [606](/zh/eip-606.md)   | 硬分叉: 家园                                  | 2017-04-23 | Final    |          | Meta  |

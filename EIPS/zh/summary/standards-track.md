@@ -35,7 +35,7 @@
 | [197](/zh/eip-197.md)   | Precompiled contracts for optimal ate pairing check on the elliptic curve alt_bn128                          | 2017-02-06 | Final     | Core       | Standards Track |
 | [198](/zh/eip-198.md)   | Big integer modular exponentiation                                                                           | 2017-01-30 | Final     | Core       | Standards Track |
 | [205](/zh/eip-205.md)   | ENS support for contract ABIs                                                                                | 2017-02-06 | Stagnant  | ERC        | Standards Track |
-| [210](/zh/eip-210.md)   | Blockhash refactoring                                                                                        | 2017-02-10 | Stagnant  | Core       | Standards Track |
+| [210](/zh/eip-210.md)   | 重组区块哈希在以太坊网络上的存储方式                                                                                           | 2017-02-10 | Stagnant  | Core       | Standards Track |
 | [211](/zh/eip-211.md)   | New opcodes: RETURNDATASIZE and RETURNDATACOPY                                                               | 2017-02-13 | Final     | Core       | Standards Track |
 | [214](/zh/eip-214.md)   | New opcode STATICCALL                                                                                        | 2017-02-13 | Final     | Core       | Standards Track |
 | [225](/zh/eip-225.md)   | Clique proof-of-authority consensus protocol                                                                 | 2017-03-06 | Final     | Core       | Standards Track |

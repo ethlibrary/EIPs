@@ -6,7 +6,7 @@
 | [86](/zh/eip-86.md)     | 交易起源和签名的抽象概念                                                                                                 | 2017-02-10 | Stagnant | Core       | Standards Track |
 | [107](/zh/eip-107.md)   | safe "eth_sendTransaction" authorization via html popup                                                      | 2016-06-05 | Stagnant | Interface  | Standards Track |
 | [205](/zh/eip-205.md)   | ENS support for contract ABIs                                                                                | 2017-02-06 | Stagnant | ERC        | Standards Track |
-| [210](/zh/eip-210.md)   | Blockhash refactoring                                                                                        | 2017-02-10 | Stagnant | Core       | Standards Track |
+| [210](/zh/eip-210.md)   | 重组区块哈希在以太坊网络上的存储方式                                                                                           | 2017-02-10 | Stagnant | Core       | Standards Track |
 | [233](/zh/eip-233.md)   | Formal process of hard forks                                                                                 | 2017-03-23 | Stagnant |            | Meta            |
 | [1010](/zh/eip-1010.md) | Uniformity Between 0xAb5801a7D398351b8bE11C439e05C5B3259aeC9B and 0x15E55EF43efA8348dDaeAa455F16C43B64917e3c | 2018-04-18 | Stagnant | Core       | Standards Track |
 | [1011](/zh/eip-1011.md) | Hybrid Casper FFG                                                                                            | 2018-04-20 | Stagnant | Core       | Standards Track |

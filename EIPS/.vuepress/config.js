@@ -164,6 +164,27 @@ var a = (module.exports = {
     extractHeaders: ['h1', 'h2', 'h3', 'h4'],
   },
 
+  plugins: {
+    seo: {
+      modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
+      title: $page => {
+        const frontmatter = $page.frontmatter
+
+        const { eip, title, home } = frontmatter
+        if (!eip) return $page.title
+
+        const pageHeader = home ? '' : `EIP${eip} - ${title}`
+        return pageHeader
+      },
+      description: $page => {
+        if ($page.path !== '/' && $page.path !== '/zh') {
+          return $page._strippedContent.substr(0, 200)
+        }
+        return $page.frontmatter.description
+      },
+    },
+  },
+
   themeConfig: {
     repo: 'ethlibrary/EIPs',
     docsDir: 'EIPS',
