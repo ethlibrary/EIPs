@@ -165,6 +165,7 @@ var a = (module.exports = {
   },
 
   plugins: {
+    'fulltext-search': {},
     seo: {
       modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
       title: $page => {
