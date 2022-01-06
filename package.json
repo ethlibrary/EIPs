@@ -12,10 +12,14 @@
     "lodash": "^4.17.21",
     "tablemark": "^2.0.0",
     "vuepress": "^1.8.2",
+    "vuepress-plugin-fulltext-search": "^2.2.1",
+    "vuepress-plugin-seo": "^0.1.4",
     "yaml-front-matter": "^4.1.1"
   },
   "scripts": {
     "dev": "vuepress dev EIPS",
-    "build": "vuepress build EIPS"
-  }
+    "build": "vuepress build EIPS",
+    "sync": "./scripts/sync.js"
+  },
+  "dependencies": {}
 }
