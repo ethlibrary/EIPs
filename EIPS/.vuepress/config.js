@@ -178,7 +178,11 @@ var a = (module.exports = {
         return pageHeader
       },
       description: $page => {
-        if ($page.path !== '/' && $page.path !== '/zh') {
+        if (
+          $page.path !== '/' &&
+          $page.path !== '/zh' &&
+          $page._strippedContent
+        ) {
           return $page._strippedContent.substr(0, 200)
         }
         return $page.frontmatter.description
