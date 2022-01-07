@@ -1,6 +1,6 @@
 ---
 eip: 2
-title: 家园硬分叉变化
+title: 家园硬分叉（Homestead Hard-fork）变化
 author: Vitalik Buterin <v@buterin.com>
 status: Final
 type: Standards Track
